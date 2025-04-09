@@ -7,17 +7,17 @@ This repository features a range of coursework and personal projects, with a str
 •	Data structure implementations
 •	Algorithmic problem solving
 •	Academic coursework samples
-Project Structure
+**Project Structure**
 The repository is organized by programming language and assignment category. Each directory contains individual projects or problem sets.
-Key Components
+**Key Components**
 •	Java Programs: Implementation of core Java concepts, algorithms, and data structures.
 •	DSA Implementations: Practical examples and exercises involving data structures and algorithms.
 •	Course Assignments: Solutions to academic tasks and problem sets submitted as part of coursework.
-Technologies Used
+**Technologies Used**
 •	Java
 •	Data Structures
 •	Algorithm Design and Problem Solving
-How to Use
+**How to Use**
 1.	Clone the repository:
 bash
 CopyEdit
@@ -27,11 +27,11 @@ git clone https://github.com/Kishore0122/192210571
 bash
 CopyEdit
 javac FileName.java java FileName 
-Contributing
+**Contributing**
 This is a personal academic repository. While contributions and suggestions are welcome, please note that this repository primarily serves as a record of my academic journey and portfolio. All contributions will be reviewed accordingly.
-Contact
+**Contact**
 If you have any questions about the projects or are interested in potential collaborations, feel free to connect:
 •	GitHub: @kishorer122
-License
+**License**
 This repository is intended for academic and portfolio purposes. The code is available for reference, but please respect academic integrity policies when using or adapting this work.
 
